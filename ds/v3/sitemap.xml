@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <!-- Homepage / Main Product Page -->
+    <url>
+        <loc>https://prostaflow.pillowpotion.com/ds/v3/</loc>
+        <lastmod>2025-10-29</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+        <image:image>
+            <image:loc>https://pillowpotion.com/offers/prosta/2_Products_prosta.webp</image:loc>
+            <image:caption>PillowPotion Prosta Flow - 2 Bottles</image:caption>
+            <image:title>Prosta Flow Supplement 2 Pack</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://pillowpotion.com/offers/prosta/4_Products_prosta.webp</image:loc>
+            <image:caption>PillowPotion Prosta Flow - 4 Bottles Bundle</image:caption>
+            <image:title>Prosta Flow Supplement 4 Pack</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://pillowpotion.com/offers/prosta/6_Products_prosta.webp</image:loc>
+            <image:caption>PillowPotion Prosta Flow - 6 Bottles Best Value</image:caption>
+            <image:title>Prosta Flow Supplement 6 Pack</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://pillowpotion.com/offers/certifications.webp</image:loc>
+            <image:caption>FDA Registered and GMP Certified</image:caption>
+            <image:title>Quality Certifications</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://pillowpotion.com/offers/moneyback1.webp</image:loc>
+            <image:caption>60-Day Money Back Guarantee</image:caption>
+            <image:title>Money Back Guarantee Seal</image:title>
+        </image:image>
+    </url>
+
+</urlset>

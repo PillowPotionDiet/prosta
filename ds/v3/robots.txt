@@ -1,0 +1,52 @@
+# robots.txt for PillowPotion Prosta Flow (Digistore - V3)
+# https://prostaflow.pillowpotion.com/ds/v3/
+
+# Allow all bots to crawl the entire site
+User-agent: *
+Allow: /
+
+# Allow CSS and JS files for better rendering
+Allow: /css/
+Allow: /js/
+Allow: /images/
+Allow: /assets/
+
+# Sitemap location
+Sitemap: https://prostaflow.pillowpotion.com/ds/v3/sitemap.xml
+
+# Specific bot rules (optional)
+# Google
+User-agent: Googlebot
+Allow: /
+
+# Bing
+User-agent: Bingbot
+Allow: /
+
+# Yahoo
+User-agent: Slurp
+Allow: /
+
+# DuckDuckGo
+User-agent: DuckDuckBot
+Allow: /
+
+# Yandex
+User-agent: Yandex
+Allow: /
+
+# Facebook (for Open Graph scraping)
+User-agent: facebookexternalhit
+Allow: /
+
+# Twitter (for Twitter Card scraping)
+User-agent: Twitterbot
+Allow: /
+
+# Pinterest
+User-agent: Pinterest
+Allow: /
+
+# LinkedIn
+User-agent: LinkedInBot
+Allow: /

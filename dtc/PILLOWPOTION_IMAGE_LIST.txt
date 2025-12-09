@@ -1,0 +1,87 @@
+PILLOWPOTION PROSTA FLOW - REQUIRED IMAGES LIST
+================================================
+
+This file lists all the image assets that need to be created/replaced for the PillowPotion Prosta Flow landing page.
+All images should be placed in the "assets/lander_desktop/" directory.
+
+LOGO & BRANDING:
+-----------------
+1. pillowpotion-logo.png - Main PillowPotion logo (replaces logo.png)
+   Recommended size: 400px wide max
+   Style: Premium wellness brand, purple/lavender color scheme
+
+PRODUCT IMAGES:
+----------------
+2. pillowpotion-bottle.png - Single bottle product shot
+   Recommended size: 370px max width/500px max height
+   Style: Professional product photography, clean background
+
+3. pillowpotion-bottle-2.png - Alternate bottle angle
+   Recommended size: 300px height max
+   Style: Consistent with main bottle image
+
+4. pillowpotion-2pack.png - Two bottle product shot
+   Recommended size: 300px height max
+   Style: Show value/quantity, clean background
+
+DECORATIVE ELEMENTS:
+--------------------
+5. ribbon_purple.png - Purple ribbon badge/seal
+   Recommended size: 60px
+   Style: Purple/lavender to match brand colors
+
+6. arrow_purple_down.png - Purple downward pointing arrow
+   Style: Match brand purple (#7C3AED)
+
+TESTIMONIAL AVATARS:
+--------------------
+7. testimonial-1.png - Avatar for Michael Thompson
+8. testimonial-2.png - Avatar for David Martinez
+9. testimonial-3.png - Avatar for Robert Chen
+10. testimonial-4.png - Avatar for William Foster
+11. testimonial-5.png - Avatar for Christopher Hayes
+    Recommended size: 150px max
+    Style: Professional headshots or avatar illustrations
+
+INFORMATIONAL IMAGES:
+---------------------
+12. premium_quality.png - Quality/premium badge or icon
+    Recommended size: 200px max
+    Style: Conveys luxury/premium quality
+
+13. premium-ingredients.jpg - Image showing premium natural ingredients
+    Recommended size: 300px max
+    Style: High-quality ingredients, herbs, botanicals
+
+BADGE ICONS:
+------------
+14. badge-premium.png - Premium formula badge
+15. badge-natural.png - Natural ingredients badge
+16. badge-certified.png - FDA/GMP certification badge
+    Recommended size: 120px
+    Style: Professional certification/quality badges
+
+EXISTING IMAGES TO KEEP:
+-------------------------
+- eye-bnr.png (eye icon for social proof)
+- white_arrow_down.png (white decorative arrow)
+- arrow_down.png (general arrow)
+- 1simp.png through 5simp.png (symptom icons)
+- what_to_expect.png (desktop diagram)
+- what_to_expect_mob.png (mobile diagram)
+
+COLOR SCHEME REFERENCE:
+-----------------------
+Primary Purple: #7C3AED
+Light Purple: #A78BFA
+Dark Purple: #6B46C1
+Light Background: #EDE9FE to #DDD6FE (gradient)
+Dark Background: #1F2937 to #374151 (gradient)
+
+NOTES:
+------
+- All product images should feature "PillowPotion Prosta Flow" branding
+- Maintain a premium, wellness-focused aesthetic
+- Use purple/lavender color scheme throughout
+- Ensure all images are web-optimized (compressed but high quality)
+- Consider creating @2x versions for retina displays

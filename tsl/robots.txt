@@ -1,0 +1,63 @@
+# robots.txt for PillowPotion Keto
+# https://keto.pillowpotion.com/
+
+# Allow all bots to crawl the entire site
+User-agent: *
+Allow: /
+
+# Disallow crawling of admin or private areas (if any exist in future)
+# Disallow: /admin/
+# Disallow: /private/
+
+# Disallow crawling of certain file types if needed
+# Disallow: /*.json$
+# Disallow: /*.xml$
+
+# Allow CSS and JS files for better rendering
+Allow: /css/
+Allow: /js/
+Allow: /images/
+Allow: /assets/
+
+# Crawl-delay (optional, uncomment if needed to reduce server load)
+# Crawl-delay: 1
+
+# Sitemap location
+Sitemap: https://keto.pillowpotion.com/sitemap.xml
+
+# Specific bot rules (optional)
+# Google
+User-agent: Googlebot
+Allow: /
+
+# Bing
+User-agent: Bingbot
+Allow: /
+
+# Yahoo
+User-agent: Slurp
+Allow: /
+
+# DuckDuckGo
+User-agent: DuckDuckBot
+Allow: /
+
+# Yandex
+User-agent: Yandex
+Allow: /
+
+# Facebook (for Open Graph scraping)
+User-agent: facebookexternalhit
+Allow: /
+
+# Twitter (for Twitter Card scraping)
+User-agent: Twitterbot
+Allow: /
+
+# Pinterest
+User-agent: Pinterest
+Allow: /
+
+# LinkedIn
+User-agent: LinkedInBot
+Allow: /
