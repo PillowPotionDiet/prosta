@@ -1,0 +1,42 @@
+@font-face {
+	font-family: 'geomanistblack';
+	src: url(../lander_desktop/geomanist-black-webfont.woff2) format('woff2'),
+		 url(../lander_desktop/geomanist-black-webfont.html) format('woff');
+	font-weight: normal;
+	font-style: normal;
+	}
+@font-face {
+	font-family: 'geomanist_regularregular';
+	src: url(../lander_desktop/geomanist-regular-webfont.woff2) format('woff2'),
+		 url(../lander_desktop/geomanist-regular-webfont.html) format('woff');
+	font-weight: normal;
+	font-style: normal;
+	}
+/*@font-face {
+	font-family: 'Conv_Geomanist-Medium';
+	src: url(/assets/lander_desktop/Geomanist-Medium.eot);
+	src: url(/assets/lander_desktop/Geomanist-Medium.woff) format('woff'), 
+		 url(/assets/lander_desktop/Geomanist-Medium.ttf) format('truetype'), 
+		 url(/assets/lander_desktop/Geomanist-Medium.svg) format('svg');
+	font-weight: normal;
+	font-style: normal;
+	}*/
+@font-face {
+	font-family: 'Conv_Geomanist-Light';
+	src: url(../lander_desktop/Geomanist-Light.html);
+	src: url(../lander_desktop/Geomanist-Light.woff) format('woff'), 
+		 url(../lander_desktop/Geomanist-Light-2.html) format('truetype'), 
+		 url(../lander_desktop/Geomanist-Light-3.html) format('svg');
+	font-weight: normal;
+	font-style: normal;
+	}
+@font-face {
+	font-family: 'Conv_Geomanist-Bold';
+	src: url(../lander_desktop/Geomanist-Bold.html);
+	src: url(../lander_desktop/Geomanist-Bold.woff) format('woff'), 
+		 url(../lander_desktop/Geomanist-Bold-2.html) format('truetype'), 
+		 url(../lander_desktop/Geomanist-Bold-3.html) format('svg');
+	font-weight: normal;
+	font-style: normal;
+	}
+
